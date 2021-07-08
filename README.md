@@ -17,8 +17,8 @@
 - 주관적 기준의 '내공있는 맛집'을 선별하여, 맛집기준으로 가장 가까운 '내공있는 카페'를 매칭해 추천했습니다.
 
 - 태블로로 시각화하여 도로교통부가 제공한 Vworld 지도위에서 맛집정보를 볼 수 있도록 하였습니다.
-
-  - https://public.tableau.com/app/profile/.51348188/viz/-NGMZ/1_1
+  [태블로 결과물 링크](https://public.tableau.com/app/profile/.51348188/viz/-NGMZ/1_1)
+  
 
   
 
